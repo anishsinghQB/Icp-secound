@@ -1,0 +1,8 @@
+/node_modules
+
+dist/
+target/
+**/declarations/
+
+.dfx/
+.env
